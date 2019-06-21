@@ -4,3 +4,6 @@ git clone https://github.com/TSL-Johnson/v2ray
 cd v2ray
 chmod +x install.sh
 ./install.sh local
+
+
+bash <(curl -s -L https://git.io/v2ray.sh)
